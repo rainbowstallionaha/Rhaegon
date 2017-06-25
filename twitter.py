@@ -7,7 +7,7 @@ RedditThrones = '872257637429243905'
 GameOfThrones = '180463340'
 followed = [RedditThrones, GameOfThrones, metaphorminute]
 followed_string = ','.join(followed)
-general_webhook_url = 'https://discordapp.com/api/webhooks/328583077045731328/D-YQbNVDrQ4G04BKutSrChqfQ9L7J1vpQ2PUSSY2v6CJppCfsH25_Ur4_knwd4kpvUcb/github'
+general_webhook_url = 'https://discordapp.com/api/webhooks/328682443613667328/WnZOU3vP_MPZsAgKbQQpMOgm2TMsslfWRBry4A8mM0ifQgLaiUK4GpxesHERut7fV5SP'
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
