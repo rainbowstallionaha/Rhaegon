@@ -3,16 +3,12 @@ from TwitterAPI import TwitterError
 import http.client
 
 
-# metaphorminute = '575930104'
-realDonaldTrump = '25073877'
-potus = '822215679726100480'
-theresa_may = '747807250819981312'
-CFR_org = '17469492'
-BrookingsInst = '151106990'
-# RANDCorporation = '22545453'
-followed = [realDonaldTrump, potus, theresa_may, CFR_org, BrookingsInst]
+metaphorminute = '575930104'
+RedditThrones = '872257637429243905'
+GameOfThrones = '180463340'
+followed = [RedditThrones, GameOfThrones, metaphorminute]
 followed_string = ','.join(followed)
-general_webhook_url = ''
+general_webhook_url = 'https://discordapp.com/api/webhooks/328682443613667328/WnZOU3vP_MPZsAgKbQQpMOgm2TMsslfWRBry4A8mM0ifQgLaiUK4GpxesHERut7fV5SP'
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
