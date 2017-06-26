@@ -10,10 +10,10 @@ followed = [RedditThrones, GameOfThrones, metaphorminute]
 followed_string = ','.join(followed)
 general_webhook_url = 'https://discordapp.com/api/webhooks/328682443613667328/WnZOU3vP_MPZsAgKbQQpMOgm2TMsslfWRBry4A8mM0ifQgLaiUK4GpxesHERut7fV5SP'
 
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-ACCESS_TOKEN_KEY = ''
-ACCESS_TOKEN_SECRET = ''
+CONSUMER_KEY = 'OZOEWCYivxIFjg08B2HOARAqb'
+CONSUMER_SECRET = '84yJ2SvpZqF9uafgnA9qcJvaknozhCqlmr4oyZDmncd1HeYsUx'
+ACCESS_TOKEN_KEY = '879128010087178240-OVpLD124mdaCAkViWzXTcn7pDjHIc71'
+ACCESS_TOKEN_SECRET = 'cZxw1cfN4varZWO7rkrmfC0zcLOlNLT8RmSa6qKNQBw21'
 api2 = TwitterAPI(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET)
 
 
